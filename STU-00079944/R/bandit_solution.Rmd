@@ -2,7 +2,9 @@
 title: "bandit solution"
 author: "Mohammed Hejairi"
 date: "`r Sys.Date()`"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 # Epsilon-Greedy Function
